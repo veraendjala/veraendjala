@@ -46,4 +46,4 @@ My goal is to build a career in data analytics and business intelligence, using 
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/veranendjala/)
+- LinkedIn: (https://www.linkedin.com/in/veranendjala/)
