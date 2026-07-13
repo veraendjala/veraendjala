@@ -1,4 +1,4 @@
-# Hi, I'm Nelago 👋
+# Hi, I'm Vera 👋
 
 ## Data Analyst | Power BI | Excel | SQL | Python | PL-300 Certified
 
