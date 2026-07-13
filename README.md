@@ -42,8 +42,8 @@ Projects coming soon:
 
 ### 🎯 Career Goals
 
-My goal is to build a career in data analytics and business intelligence, using data to solve real-world business problems and support strategic decision-making. I also plan to pursue a Master's degree in Data Science as I continue developing my expertise in analytics, statistics, and machine learning.
+My goal is to build a career in data analytics and business intelligence, using data to solve real-world business problems and support strategic decision-making.
 
 ### 📫 Let's Connect
 
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/veranendjala/)
